@@ -1,4 +1,31 @@
-# **Department of Justice - US Trustees Program Statement of Objectives for Case Management System**
+- [1.0 Background and Purpose](#10-background-and-purpose)
+  - [1.1 Background](#11-background)
+    - [1.1.1 United States Trustee Program Overview](#111-united-states-trustee-program-overview)
+    - [1.1.2 Data Exchange for Trustees (DXTR) Overview](#112-data-exchange-for-trustees-dxtr-overview)
+    - [1.1.3 Automated Case Management System (ACMS) Overview](#113-automated-case-management-system-acms-overview)
+  - [1.2 Purpose and Problem Space](#12-purpose-and-problem-space)
+- [2.0 Scope](#20-scope)
+  - [2.1 Product Vision](#21-product-vision)
+  - [2.2 Open source](#22-open-source)
+  - [2.3 Anticipated Period of Performance](#23-anticipated-period-of-performance)
+- [3.0 Objectives](#30-objectives)
+  - [3.1 Backlog](#31-backlog)
+    - [3.1.1 Preliminary user types](#311-preliminary-user-types)
+    - [3.1.2 Preliminary user stories](#312-preliminary-user-stories)
+    - [3.1.3 Potential Future work](#313-potential-future-work)
+  - [3.2 List of Deliverables with Quality Assurance Surveillance Plan (QASP)](#32-list-of-deliverables-with-quality-assurance-surveillance-plan-qasp)
+- [4.0 Contract Place of Performance and Contract Type](#40-contract-place-of-performance-and-contract-type)
+- [5.0 Operating Constraints (Non-functional Requirements)](#50-operating-constraints-non-functional-requirements)
+  - [5.1 Non-functional Requirements](#51-non-functional-requirements)
+  - [5.2 Personnel Skills and Knowledge](#52-personnel-skills-and-knowledge)
+  - [5.3 Special Clauses](#53-special-clauses)
+- [6.0 Instructions and Evaluation](#60-instructions-and-evaluation)
+  - [6.1 Submission Instructions](#61-submission-instructions)
+  - [6.2 Instructions for Proposals](#62-instructions-for-proposals)
+    - [6.2.1 Technical Submissions](#621-technical-submissions)
+    - [6.2.2 Price Submissions](#622-price-submissions)
+    - [6.2.3 Interviews](#623-interviews)
+    - [6.2.4 Basis of Award and Evaluation Factors](#624-basis-of-award-and-evaluation-factors)
 
 # 1.0 Background and Purpose
 
@@ -184,7 +211,7 @@ The offeror must specify whether the fixed hourly rate for each labor category a
 2. subcontractors; and/or
 3. divisions, subsidiaries, or affiliates or the offeror under a common control.
 
-### 5.0 Operating Constraints (Non-functional Requirements)
+# 5.0 Operating Constraints (Non-functional Requirements)
 
 ## 5.1 Non-functional Requirements
 
