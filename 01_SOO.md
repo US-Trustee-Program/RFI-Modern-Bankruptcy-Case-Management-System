@@ -267,7 +267,7 @@ If software delivered by the Contractor incorporates software that is subject to
 
 ## 6.1 Submission Instructions
 
-The offeror must submit their information in this Google Form. You are limited to X, Y, and Z. 
+The offeror must submit their information in [this Google Form](https://forms.gle/FDqRvBKjnXvyzU2z9). You are limited to the restrictions placed on each form field response. 
 
 ## 6.2 Instructions for Proposals
 
@@ -304,7 +304,7 @@ If the references to source code samples provided do not include associated refe
 
 ### 6.2.2 Price Submissions
 
-Price submissions must set forth a single dollar amount that represents the Offeror's estimate of the total cost to USTP for the development services and travel expenses required for [period of performance]. [Instructions on providing price proposal, typically an excel workbook]. USTP expects that the labor categories and staffing levels set forth by the Offeror in the Excel workbook will be consistent with the Offeror's staffing plan.
+Price submissions must set forth a single dollar amount that represents the Offeror's estimate of the total cost to USTP for the development services and travel expenses required for [period of performance]. Instructions on providing price proposal, typically an excel workbook. USTP expects that the labor categories and staffing levels set forth by the Offeror in the Excel workbook will be consistent with the Offeror's staffing plan.
 
 The Contractor will be compensated at loaded hourly rates. USTP intends to evaluate proposals and award based on initial proposals, and therefore the Offeror's initial proposal should contain the Offeror's best terms.
 
