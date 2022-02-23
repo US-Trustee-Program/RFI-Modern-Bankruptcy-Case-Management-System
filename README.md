@@ -2,7 +2,7 @@
 
 The United States Trustee Program (USTP) is a component of the Department of Justice (DOJ) that acts in the public's interest to promote efficiency as well as protect and preserve the integrity of the bankruptcy system for all stakeholders – debtors, creditors, and the public.
 
-USTP wants to build a modern case management system. To start, USTP envisions building a new data repository, as the foundational piece to feed user enhancements. The program uses a non-web-based legacy case management system and multiple stovepipe web-based apps. These systems are difficult to improve; needs more timely data; have a poor, inconsistent user experience; and have data that is not easily accessible.  The USTP is requesting quotes for agile software development services from vendors with contracts under GSA Schedule 70, SIN 132-51.
+USTP wants to build a modern bankruptcy case management system. To start, USTP envisions building a new data repository, as the foundational piece to feed user enhancements. The program uses a non-web-based legacy case management system and multiple stovepipe web-based apps. These systems are difficult to improve; need more timely data; have a poor, inconsistent user experience; and have data that is not easily accessible.  The USTP is requesting quotes for agile software development services from vendors with contracts under GSA Schedule 70, SIN 132-51.
 
 Companies can respond to this Request for Information (RFI) by submitting answers in [this Google Form](https://forms.gle/FDqRvBKjnXvyzU2z9).
 
