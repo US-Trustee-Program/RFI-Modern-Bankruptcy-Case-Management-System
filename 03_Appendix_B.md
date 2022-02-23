@@ -1,6 +1,3 @@
-- [Appendix B](#appendix-b)
-  - [Azure Government Cloud Services](#azure-government-cloud-services)
-
 # Appendix B
 
 ## Azure Government Cloud Services
