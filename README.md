@@ -11,5 +11,6 @@ Companies can respond to this Request for Information (RFI) by submitting answer
 1. [Statement of Objectives](01_SOO.md)
 2. [Appendix A: Technical Overview](02_Appendix_A.md)
 3. [Appendix B: Azure Government Cloud Services](03_Appendix_B.md)
+4. [Sample DXTR Docket XML File](samples/FLT0123-45678910-11121314-15161718192021.xml)
 
 The entire RFI may alternatively be [downloaded as a single PDF](documents/USTP_Modern_Case_Management_Statement_of_Objectives_and_Appendices.pdf).
